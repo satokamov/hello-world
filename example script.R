@@ -12,3 +12,7 @@ mean(A)
 
 #sandksdn;kdnas;kdna;sdk
 
+#add mean of 1:228
+B <- 1:228
+mean(B)
+
