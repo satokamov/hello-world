@@ -16,3 +16,4 @@ mean(A)
 B <- 1:228
 mean(B)
 
+#this comment was added in Github to test the Pull function in R
